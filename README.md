@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jithin</h1>
 <h3 align="center">Intermediate Full-Stack Developer | Freelancer</h3>
 
-<p align="left"> <a href="https://twitter.com/itzsteveemc" target="blank"><img src="https://img.shields.io/twitter/follow/itzsteveemc?logo=twitter&style=for-the-badge" alt="itzsteveemc" /></a> </p>
-
 - 🔭 I’m currently working on **Discord bots, web apps, portfolios, and Minecraft plugins/mods**
 
 - 🌱 I’m currently learning **Advanced React & Next.js, backend architecture, animations, and clean UI patterns**
